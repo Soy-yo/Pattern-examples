@@ -1,4 +1,4 @@
-package behaviour.startegy;
+package behaviour.strategy;
 
 public class World {
 

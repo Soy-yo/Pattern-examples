@@ -1,4 +1,4 @@
-package behaviour.startegy;
+package behaviour.strategy;
 
 /**
  * Interface that allows enemy spawning in a game.

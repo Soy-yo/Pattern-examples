@@ -1,4 +1,4 @@
-package behaviour.startegy;
+package behaviour.strategy;
 
 import org.junit.jupiter.api.Test;
 

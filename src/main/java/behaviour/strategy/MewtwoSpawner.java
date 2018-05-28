@@ -1,4 +1,4 @@
-package behaviour.startegy;
+package behaviour.strategy;
 
 /**
  * High level enemy spawner. Might be a lambda but this implementation is clearer for the pattern.

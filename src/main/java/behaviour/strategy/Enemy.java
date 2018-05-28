@@ -1,4 +1,4 @@
-package behaviour.startegy;
+package behaviour.strategy;
 
 /**
  * Class representing an enemy in a game.
